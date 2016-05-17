@@ -1,1 +1,3 @@
 # soloActivityGit
+
+Solo activity readMe
